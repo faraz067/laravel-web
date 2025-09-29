@@ -5,7 +5,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\MahasiswaController;
 
 Route::get('/pcr', function () {
-    return 'selamat datang diwebsite kampus PCR!';
+    return 'selamat datang diwebsite bebas lingkungan asap';
 });
 
 route:: get('/nama/{param}', function ($faraz){
